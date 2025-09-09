@@ -91,7 +91,7 @@
           width="4626"
           height="6162"
           transform="translate(-2.12 -2.12) scale(.24)"
-          xlink:href="https://raw.githubusercontent.com/aristobyte-team/aristobyte-assets/master/svg/logo/light.png"
+          xlink:href="./light.png"
         />
       </g>
     </mask>
@@ -106,7 +106,7 @@
             width="5633"
             height="7169"
             transform="translate(-65.72 -65.72) scale(.24)"
-            xlink:href="https://raw.githubusercontent.com/aristobyte-team/aristobyte-assets/master/svg/logo/shadow.png"
+            xlink:href="./light.png"
           />
           <g>
             <g>
